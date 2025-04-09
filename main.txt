@@ -1,2 +1,3 @@
-ptr hi guys
-uhhh this is how u fetch i think
+prt hi guys
+set string mystring guys this is so cool
+set string mystring wait nvm this is even cooler
